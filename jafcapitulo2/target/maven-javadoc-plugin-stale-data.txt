@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/jpere/Documents/NetBeansProjects/jafcapitulo2/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/jpere/Documents/NetBeansProjects/jafcapitulo2/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'jafcapitulo2 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/jpere/Documents/NetBeansProjects/jafcapitulo2/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'jafcapitulo2 1.0-SNAPSHOT API'
+edu.cibertec.laboratorio1
+edu.cibertec.laboratorio2
+edu.cibertec.laboratorio3.controlador
+edu.cibertec.laboratorio3.logica
+edu.cibertec.main
+C:\Users\jpere\Documents\NetBeansProjects\jafcapitulo2\src\main\java = 1680446832306
+C:\Users\jpere\Documents\NetBeansProjects\jafcapitulo2\target\site\apidocs\allclasses-frame.html = 1680460371231
+C:\Users\jpere\Documents\NetBeansProjects\jafcapitulo2\target\site\apidocs\allclasses-noframe.html = 1680460371234
+C:\Users\jpere\Documents\NetBeansProjects\jafcapitulo2\target\site\apidocs\constant-values.html = 1680460371164
+C:\Users\jpere\Documents\NetBeansProjects\jafcapitulo2\target\site\apidocs\deprecated-list.html = 1680460371228
+C:\Users\jpere\Documents\NetBeansProjects\jafcapitulo2\target\site\apidocs\help-doc.html = 1680460371244
+C:\Users\jpere\Documents\NetBeansProjects\jafcapitulo2\target\site\apidocs\index-all.html = 1680460371217
+C:\Users\jpere\Documents\NetBeansProjects\jafcapitulo2\target\site\apidocs\index.html = 1680460371236
+C:\Users\jpere\Documents\NetBeansProjects\jafcapitulo2\target\site\apidocs\overview-frame.html = 1680460371109
+C:\Users\jpere\Documents\NetBeansProjects\jafcapitulo2\target\site\apidocs\overview-summary.html = 1680460371240
+C:\Users\jpere\Documents\NetBeansProjects\jafcapitulo2\target\site\apidocs\overview-tree.html = 1680460371208
+C:\Users\jpere\Documents\NetBeansProjects\jafcapitulo2\target\site\apidocs\package-list = 1680460371105
+C:\Users\jpere\Documents\NetBeansProjects\jafcapitulo2\target\site\apidocs\script.js = 1680460371249
+C:\Users\jpere\Documents\NetBeansProjects\jafcapitulo2\target\site\apidocs\stylesheet.css = 1680460371247
